@@ -1,3 +1,15 @@
+# Giới thiệu:
+Đây là một repository được fork lại từ [https://github.com/bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) với chức năng là tạo ra một server V2Ray trên heroku một cách đơn giản nhất.
+Heroku sẽ không khuyến khích việc này nên các bạn cần phải fork lại dự án này để không bị heroku chặn.
+Với nhu cầu không quá cao thì heroku chính là giải pháp hoàn hảo cho anh em muốn dùng V2Ray để dùng 4G miễn phí:
+* 2TB mỗi tháng
+* 550 giờ mỗi tháng (~23 ngày, dĩ nhiên bạn cần ngủ 8 tiếng 1 ngày nên 550 giờ là quá đủ)
+
+Anh em xem hướng dẫn ở đây nhé:
+[![4G Free](https://img.youtube.com/vi/79jkqGWi0zU/0.jpg)](https://www.youtube.com/watch?v=79jkqGWi0zU)
+
+=============================================================
+
 # V2Ray Heroku
 
 **Nếu bạn cần triển khai V2Ray VLESS，thì qua bài viết này [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless)**
