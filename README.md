@@ -6,6 +6,7 @@ Với nhu cầu không quá cao thì heroku chính là giải pháp hoàn hảo 
 * 550 giờ mỗi tháng (~23 ngày, dĩ nhiên bạn cần ngủ 8 tiếng 1 ngày nên 550 giờ là quá đủ)
 
 Anh em xem hướng dẫn ở đây nhé:
+
 [![4G Free](https://img.youtube.com/vi/79jkqGWi0zU/0.jpg)](https://www.youtube.com/watch?v=79jkqGWi0zU)
 
 =============================================================
